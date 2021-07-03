@@ -17,7 +17,7 @@ public abstract class ResinExtractor extends AContainer implements RecipeDisplay
 
     @Override
     public String getInventoryTitle() {
-        return "樹脂萃取器";
+        return "树脂萃取器";
     }
 
     @Override
